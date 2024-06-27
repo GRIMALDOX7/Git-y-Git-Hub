@@ -2,3 +2,6 @@ contenido del archivo
 es un archivo con mucho contenido 
 
 wow mucha info
+
+estos son cambios echos en la version 1 de la pagina
+
