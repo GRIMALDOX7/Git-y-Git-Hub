@@ -1,8 +1,1 @@
-contenido del archivo 
-es un archivo con mucho contenido 
-
-wow mucha info
-
-estos son cambios echos en la version 1 de la pagina
-
-ahora esto es un nuevo cambio 
+esta es la prueba del checkout con cambio 
