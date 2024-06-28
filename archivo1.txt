@@ -1,1 +1,4 @@
-esta es la prueba del checkout con cambio 
+contenido del archivo 
+es un archivo con mucho contenido 
+
+wow mucha info
